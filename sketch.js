@@ -5,5 +5,5 @@ function setup() {
 function draw() {
   background(220);
 
-  //hola equipo
+  //hola equipo, otro intento
 }

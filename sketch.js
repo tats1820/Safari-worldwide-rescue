@@ -14,6 +14,7 @@ function setup() {
 function draw() {
   background(220);
 
+< main>
   //corazón
   image(imgCora, 30,30);
   image(imgBat, 70,30);
@@ -23,4 +24,10 @@ function draw() {
   jugador.mover();
 
 
+=======
+<main>
+  //hola equipo, otro intento
+  ellipse (50,50,50,50);
+<main>
+<main>
 }

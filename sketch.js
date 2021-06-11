@@ -5,8 +5,5 @@ function setup() {
 function draw() {
   background(220);
 
-<main>
-  //hola equipo, otro intento
   ellipse (50,50,50,50);
-<main>
 }

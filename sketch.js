@@ -8,5 +8,6 @@ function draw() {
 <main>
   //hola equipo, otro intento
   ellipse (50,50,50,50);
+  ellipse (50,50,70,70)
 <main>
 }

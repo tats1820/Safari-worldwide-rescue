@@ -28,6 +28,7 @@ function draw() {
 
   background(220);
 
+
   personaje.mostrar();
 
   enemigo1.mostrar();
@@ -44,7 +45,15 @@ function draw() {
   
 
 
+
+  //corazón
+  image(imgCora, 30,30);
+  image(imgBat, 70,30);
+
+
+
 } 
+
 
 
 /* if (disparos.impacto(enemigo1.x, enemigo1.y)) {
@@ -55,6 +64,7 @@ function draw() {
 if (disparos.impacto(enemigo2.x, enemigo2.y)) {
   mostrarse = false;
   } */
+
 
 }
 

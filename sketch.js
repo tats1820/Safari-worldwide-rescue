@@ -16,6 +16,9 @@ function draw() {
 
   ellipse (50,50,50,50);
 
+  ellipse (50,50,70,70)
+
+
   //corazón
   image(imgCora, 30,30);
   image(imgBat, 70,30);
@@ -26,4 +29,5 @@ function draw() {
 
  
   ellipse (50,50,50,50);
+
 }
